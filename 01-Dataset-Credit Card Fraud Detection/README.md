@@ -32,24 +32,15 @@ What:
 ## 3. Comparing the Description with the Dataset
 After examining the dataset, I compared the actual data with the description.
 
-Observations:
+Observations of what was not mentioned:
 - The dataset contains additional columns not clearly explained.
 - Some columns have missing values.
 - Some features appear to be categorical variables.
+- There are some transactions with an amount of zero in the column of the amount, but there is no explanation for this in the data card.
 
 ---
 
-## 4. What Was Not Mentioned
-While exploring the dataset, I noticed several aspects that were not clearly mentioned in the dataset description.
-
-Examples:
-- Missing values in some columns
-- Possible class imbalance
-- Potential relationships between variables
-
----
-
-## 5. My Summery of the Dataset
+## 4. My Summery of the Dataset
 After examining the dataset, I observed:
 
 - Total number of rows: 284807
@@ -61,7 +52,7 @@ After examining the dataset, I observed:
 
 ---
 
-## 6. Machine Learning Perspective
+## 5. Machine Learning Perspective
 From a machine learning viewpoint, this dataset can be used for:
 
 - Supervised learning
@@ -71,7 +62,7 @@ Target variable: "class"
 
 ---
 
-## . Final Conclusion
+## 6. Final Conclusion
 It will be provided after completing all the work, from a data scientist's perspective. 
 
 
