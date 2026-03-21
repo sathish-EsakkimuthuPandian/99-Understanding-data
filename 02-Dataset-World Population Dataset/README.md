@@ -11,7 +11,7 @@ Link: https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
 Here, I summarise what the dataset creator explains in the Kaggle data card.
 
 ### Why
-- 
+- This dataset contains country and region-wise population data for conducting a global Headcount.
 
 ### What
 - 
